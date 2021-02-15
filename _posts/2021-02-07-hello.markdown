@@ -1,0 +1,22 @@
+---
+layout: post
+title:  "This is a test post"
+date:   2021-02-07 14:13:11 -0800
+categories: jekyll update
+usemathjax: true
+---
+$$ E = mc^2$$
+
+Just trying out some markdown `code highlighting`
+
+Some python code:
+
+{% highlight python %}
+def spam(a):
+  print("eggs")
+{% endhighlight %}
+
+And a [link][link] can be put in like this.
+
+[link]: https://google.com
+
