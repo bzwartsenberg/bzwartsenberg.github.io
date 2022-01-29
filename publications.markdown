@@ -4,6 +4,8 @@ title: Publications
 permalink: /publications/
 ---
 
+* A. Munk. B. Zwartsenberg, A. Ścibior, A. G. Baydin, A. Stewart, G. Fernlund, A. Poursartip, F. Wood
+ [Probabilistic Surrogate Networks for Simulators with Unbounded Randomness][surrogates], arXiv:1910.11950 (2022).
 * B. Zwartsenberg, R.P. Day, E. Razzoli, M. Michiardi, N. Xu, M. Shi, J. D. Denlinger, G. Cao, S. Calder, K. Ueda, J. Bertinshaw, H. Takagi, B.J. Kim, I.S. Elfimov, A. Damascelli, [Spin-orbit-controlled metal-insulator transition in Sr<sub>2</sub>IrO<sub>4</sub>][socmit], *Nat. Phys.* 16, 290 - 294 (2020).
 * F. Boschini, D. Bugini, M. Zonno, M. Michiardi, R.P. Day, E. Razzoli, B. Zwartsenberg, E.H. Neto, S. dal Conte, S.K. Kushwaha, R.J. Cava, S. Zhdanovich, A.K. Mills, G. Levy, E. Carpene, C. Dallera, C. Giannetti, D.J. Jones, G. Cerullo, A. Damascelli, [Role of matrix elements in the time-resolved photoemission signal][tr_mel], *New J. Phys.* 22 023031, (2020).
 * R.P. Day, B. Zwartsenberg, I.S. Elfimov, and A. Damascelli, [Computational Framework for Angle-Resolved Photoemission Spectroscopy][chinook], *npj Quant. Mat.* 4, 54 (2019)
@@ -19,6 +21,7 @@ permalink: /publications/
 
 
 
+[surrogates]: https://arxiv.org/abs/1910.11950
 [socmit]: https://www.nature.com/articles/s41567-019-0750-y
 [pg_vanish]: https://www.nature.com/articles/s41535-020-0208-6
 [tr_mel]: https://iopscience.iop.org/article/10.1088/1367-2630/ab6eb1

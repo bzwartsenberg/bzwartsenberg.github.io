@@ -30,7 +30,7 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 minima:
   social_links:
     github: bzwartsenberg
-    email: berendz@cs.ubc.ca
+    email: berend.zwartsenberg@inverted.ai
 #    twitter: lostbear89
     linkedin: berend-zwartsenberg-ba259093
 
