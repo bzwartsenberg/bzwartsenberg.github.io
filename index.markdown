@@ -10,7 +10,7 @@ I am a research scientist at [Inverted AI][iai] working on multi-agent behaviora
 
 Before starting at Inverted AI I was a postdoc working in the [UBC computer science department][ubccs] with [Frank Wood][fwood], and in the [UBC statistics department][ubcstat] with [Trevor Campbell][trevor]. My work was on developing and applying permutation invariant models with a tractable probability density. I was also part of a project that applies techniques of probabilistic programming for the purpose inverting physical models, with the use of [neural surrogates][surrogates]. During this period I was part of the [DSI-CRN][dsicrn] collaboration, which aims to leverage machine learning methods to develop better composite materials.
 
-Before starting as a machine learning researcher, I did a PhD in condensed matter physics at UBC in the group of [Andrea Damascelli][andrea]. My research focussed on understanding the [interplay between spin-orbit coupling and electron-electron interactions][paper]. Before that, was a MSc student in Amsterdam, working with [Mark Golden][mark], understanding [the effects of light on the energy states of topological insulators][spv]. 
+Before starting as a machine learning researcher, I did a PhD in condensed matter physics at UBC in the group of [Andrea Damascelli][andrea]. My research focused on understanding the [interplay between spin-orbit coupling and electron-electron interactions][paper]. Before that, was a MSc student in Amsterdam, working with [Mark Golden][mark], understanding [the effects of light on the energy states of topological insulators][spv]. 
 
 [surrogates]: https://arxiv.org/abs/1910.11950
 [iai]: https://www.inverted.ai/
